@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/ok_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/file_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/add_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/add_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/appearance_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/appearance_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/cancel_disable.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/cancel_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/cancel_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/close_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/close_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/close_press.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/default_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/default_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/default_press.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/equipment_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/equipment_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/file_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/folder_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/folder_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/graphics_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/graphics_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/guide_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/guide_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/help_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/help_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/items_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/items_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/logout_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/logout_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/menu_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/menu_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/menu_press.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/modify_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/modify_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/move_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/move_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/next_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/next_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/next_press.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/ok_disable.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/ok_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/option_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/option_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/prev_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/prev_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/prev_press.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/remove_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/remove_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/run_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/run_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/skills_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/skills_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/sound_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/sound_normal.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/theme_hover.png</file>
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/theme_normal.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>D:/Program Files/Studio GPBeta/SAO Utils/Images/icon/appearance_normal.png</file>
+    </qresource>
+</RCC>
